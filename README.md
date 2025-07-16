@@ -1,16 +1,8 @@
 <!-- Encabezado con imagen decorativa -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h1>¡Hola! Soy Diego 👋</h1>
-        <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="120"/>
-      </td>
-    </tr>
-  </table>
+  <h1>¡Hola! Soy Diego 👋</h1>
+  <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
 </div>
 
 ---
@@ -56,7 +48,7 @@
 ### 🌐 Conéctate conmigo
 
 <p align="left">
-  <a href="www.linkedin.com/in/diegochicuazuque" target="_blank">
+  <a href="https://www.linkedin.com/in/diegochicuazuque" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
