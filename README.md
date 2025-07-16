@@ -1,9 +1,10 @@
-<!-- Encabezado con imagen al lado -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="180" align="right"/>
+<!-- Encabezado con imagen decorativa -->
+<div align="left">
   <h1>¡Hola! Soy Diego 👋</h1>
-  <h3>Estudiante de Ingeniería de Sistemas | Desarrollador en formación</h3>
+  <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
 </div>
+
+<img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" align="right" width="180"/>
 
 ---
 
@@ -11,9 +12,9 @@
 
 - 🎓 Estudiante de Ingeniería de Sistemas  
 - 💼 Practicante en **Enel Colombia**  
-- 💡 Me apasionan la programación, la automatización y la inteligencia artificial  
-- ⚙️ Aplico metodologías ágiles, CI/CD y buenas prácticas de desarrollo  
-- 🌱 Siempre aprendiendo algo nuevo  
+- 💡 Apasionado por la automatización, IA y soluciones en la nube  
+- 👨‍💻 Me gusta trabajar con buenas prácticas, patrones y metodologías ágiles  
+- 📍 Colombia 🇨🇴
 
 ---
 
@@ -45,18 +46,9 @@
 
 ---
 
-### 📈 Mis estadísticas
+### 🌐 Conéctate conmigo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCHICUAZUQUE&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCHICUAZUQUE&layout=compact&theme=radical&hide_border=true" width="47%" />
-</div>
-
----
-
-### 📌 Conéctate conmigo
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
