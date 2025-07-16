@@ -1,20 +1,27 @@
 <!-- Encabezado con imagen decorativa -->
-<div align="left">
-  <h1>¡Hola! Soy Diego 👋</h1>
-  <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>¡Hola! Soy Diego 👋</h1>
+        <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="120"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" align="right" width="180"/>
 
 ---
 
 ### 💬 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas  
+- 🎓 Estudiante de 9no semestre de Ingeniería de Sistemas en la **Escuela Colombiana de Ingeniería Julio Garavito**  
 - 💼 Practicante en **Enel Colombia**  
-- 💡 Apasionado por la automatización, IA y soluciones en la nube  
-- 👨‍💻 Me gusta trabajar con buenas prácticas, patrones y metodologías ágiles  
-- 📍 Colombia 🇨🇴
+- 💡 Apasionado por la automatización, la inteligencia artificial y las soluciones en la nube  
+- 👨‍💻 Me enfoco en escribir código limpio, usar buenas prácticas, aplicar patrones de diseño y metodologías ágiles  
+- 📍 Vivo en Colombia 🇨🇴  
 
 ---
 
@@ -51,8 +58,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tu.correo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
