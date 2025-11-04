@@ -1,7 +1,7 @@
 <!-- Encabezado con imagen decorativa -->
 <div align="center">
   <h1>¡Hola! Soy Diego 👋</h1>
-  <h3>Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo y la tecnología</h3>
+  <h3>Ingeniero de Software | Apasionado por el desarrollo y la tecnología</h3>
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
 </div>
 
