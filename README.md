@@ -6,7 +6,7 @@
 
 # Diego Chicuazuque
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Systems+%26+Software+Engineer;AI+%26+Automation+Developer;Cloudflare+Workers+%7C+AWS+%7C+Azure;Full-Stack+%7C+Spring+Boot+%7C+Next.js" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Engineer;Systems+%26+Software+Engineer;Workflow+%26+Systems+Integration;Cloudflare+Workers+%7C+AWS+%7C+Azure;Full-Stack+%7C+Spring+Boot+%7C+Next.js" alt="Typing SVG"/>
 
 <br/>
 
@@ -28,24 +28,27 @@ location:  Colombia 🇨🇴
 education:
   - Ing. de Sistemas / Software — Escuela Colombiana de Ingeniería Julio Garavito
   - Técnico en Diseño e Integración de Automatismos Mecatrónicos
-role:      Ingeniero Junior @ Enel Colombia
+role:      AI & Automation Engineer @ Enel Colombia
+focus:     Agentes LLM · Automatización de procesos · Integraciones · Arquitectura limpia
 ```
 
-- ⚡ **Ingeniero Junior** en Enel Colombia — automatización, datos e integraciones cloud
-- 🤖 Apasionado por IA aplicada, arquitecturas limpias y automatización
-- 🌱 Actualmente explorando Cloudflare Workers + agentes IA con GPT-4o
-- 📍 Colombia 🇨🇴
+- 🤖 **AI & Automation Engineer** en Enel Colombia — agentes LLM, pipelines de datos e integraciones entre sistemas (Salesforce, SAP, SharePoint, Power Platform)
+- 🏗️ Construyo automatización sobre buenas prácticas de software: SOLID, arquitectura limpia y CI/CD
+- ⚡ Full-stack con foco en sistemas que mueven datos de forma confiable entre servicios
+- 🌱 Actualmente: backends serverless en **Cloudflare Workers + D1 + Hono** y pipelines de clasificación con LLMs (**Groq / Gemini**)
 
 ---
 
-## 🎯 Areas de enfoque
+## 🎯 Áreas de enfoque
 
-| Area | Descripción | Repos |
+| Área | Descripción | Repos |
 |------|-------------|-------|
-| ☁️ **AI & Cloud** | Agentes IA, Cloudflare Workers, integración LLMs | [`workers-generator-agent`](https://github.com/marzo245/workers-generator-agent) · [`chatbot`](https://github.com/marzo245/chatbot) · [`ChatGPT_con_patrones`](https://github.com/marzo245/ChatGPT_con_patrones) |
-| 🌐 **Full-Stack** | Next.js, React, Spring Boot, Node.js | [`RoleDesk-B`](https://github.com/marzo245/RoleDesk-B) · [`marketplace_app`](https://github.com/marzo245/marketplace_app) · [`marketplace-backend`](https://github.com/marzo245/marketplace-backend) |
-| ⚙️ **Backend & Patrones** | Java, Spring Boot, WebSockets, diseño limpio | [`ChatGPT_con_patrones`](https://github.com/marzo245/ChatGPT_con_patrones) · [`websockets`](https://github.com/marzo245/websockets) · [`securing-web`](https://github.com/marzo245/securing-web) |
-| 🏭 **Automatización @ Enel** | Power Platform, KNIME, Kotlin, integraciones internas | [`enelInventarios`](https://github.com/marzo245/enelInventarios) · [`proxyCorreosEnel`](https://github.com/marzo245/proxyCorreosEnel) |
+| 🤖 **IA & Agentes** | LLMs, RAG, patrones aplicados a IA | [`RAGproject`](https://github.com/marzo245/RAGproject) · [`Taller-de-LLM`](https://github.com/marzo245/Taller-de-LLM) · [`ChatGPT_con_patrones`](https://github.com/marzo245/ChatGPT_con_patrones) |
+| 🌐 **Full-Stack** | Flutter, React, Node, Spring Boot, tiempo real | [`marketplace_app`](https://github.com/marzo245/marketplace_app) · [`marketplace-backend`](https://github.com/marzo245/marketplace-backend) · [`RoleDesk-B`](https://github.com/marzo245/RoleDesk-B) |
+| 🧩 **Backend & Patrones** | Java, Spring Boot, WebSockets, diseño limpio | [`ChatGPT_con_patrones`](https://github.com/marzo245/ChatGPT_con_patrones) · [`websockets`](https://github.com/marzo245/websockets) · [`securing-web`](https://github.com/marzo245/securing-web) |
+| ⚙️ **Automatización @ Enel** | KNIME + LLMs, Power Platform, integraciones internas | [`enelInventarios`](https://github.com/marzo245/enelInventarios) · _(varios privados)_ |
+
+> _Mi trabajo de automatización en Enel y los backends serverless (Cloudflare Workers + D1 + Hono) viven en repos privados._
 
 ---
 
@@ -67,22 +70,29 @@ role:      Ingeniero Junior @ Enel Colombia
 ### Backend & Cloud
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### IA & Datos
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FDD600?style=for-the-badge&logo=knime&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
+### Automatización empresarial
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
